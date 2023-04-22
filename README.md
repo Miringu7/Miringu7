@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on new and challenging projects
-- 📫 You can reach me on kenyanmiringu@gmail.com
+- 📫 You can reach me on miringusimeon@gmail.com
 
 <!---
 Miringu7/Miringu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
