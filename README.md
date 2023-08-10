@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Miringu7
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on new and challenging projects
+- 🌱 Student at ALX
 - 📫 You can reach me on miringusimeon@gmail.com
 
 <!---
